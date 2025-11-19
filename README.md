@@ -79,9 +79,9 @@ All test cases are located here:
 ---
 
 # 👥 Team Members
-- Hector Gomez  
-- James Mason Fowler-Valdez
-- JacobYount  
+- Hector Gomez (Lead Developer)
+- James Mason Fowler-Valdez (Project Manager)
+- Jacob Yount (Data Analyst)
 
 ---
 
