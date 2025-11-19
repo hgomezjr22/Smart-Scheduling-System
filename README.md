@@ -1,4 +1,4 @@
-# 📋 Smart Scheduling System — Capstone Project 
+# 📋 Smart Scheduling System — Capstone Project  
 A web-based scheduling system designed for restaurants to manage staff availability, create schedules, and streamline communication between managers and employees.
 
 ---
@@ -19,6 +19,7 @@ This project follows real software-engineering practices:
 ---
 
 # 📁 Repository Structure
+
 
 ---
 
@@ -49,24 +50,44 @@ This project follows real software-engineering practices:
 ---
 
 # 🏗️ System Design  
+
 See Wiki for full details:
 
 - **ER Diagram**  
-- **Data relationship diagram (DRD)**  
-- **System architecture**  
+- **Data Relationship Diagram (DRD)**  
+- **System Architecture Diagram**  
 - **Wireframes**  
-- **Use case diagrams**  
+- **Use Case Diagrams**  
 
 ---
 
 # 🧪 Test Cases  
+
 All test cases are located here:
 
 📄 `/docs/test-cases.md`
 
+
 ---
 
-# 🚀 Getting Started
+# 🧰 Technologies Used
+- **Bubble.io** (no-code builder)  
+- **JavaScript logic in Bubble actions**  
+- **GitHub** for documentation  
+- **Markdown** for diagrams and system documentation  
 
-### 1. Clone the Project
+---
 
+# 👥 Team Members
+- Hector Gomez  
+- James 
+- JacobYount  
+
+---
+
+# 📄 License  
+This project is for academic use only.
+
+---
+
+# ✔️ End of README
