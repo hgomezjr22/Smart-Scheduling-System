@@ -80,7 +80,7 @@ All test cases are located here:
 
 # 👥 Team Members
 - Hector Gomez  
-- James 
+- James Mason Fowler-Valdez
 - JacobYount  
 
 ---
