@@ -13,6 +13,8 @@ Built in **Bubble.io**, the system allows:
 - Shift confirmations and alerts  
 - Simple and mobile-friendly UI  
 
+**Note: This repository includes the full conceptual architecture for a future coded implementation. The current MVP is implemented in Bubble.io and focuses on scheduling, availability, shift confirmations, and the core manager/staff workflows.**
+
 This project follows real software-engineering practices:  
 📄 Requirements → 🎨 Design → 🏗️ Development → 🧪 Testing → 📚 Documentation
 
