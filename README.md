@@ -22,6 +22,17 @@ This project follows real software-engineering practices:
 
 # 📁 Repository Structure
 
+- `/docs` — Contains documentation including test cases and diagrams
+- `/screenshots` — Contains all screenshots of the system pages, UI layouts, workflows, and final demo
+
+## 📸 Screenshots
+
+This section contains visual documentation of the Smart Scheduling System:
+
+[Insert descriptive text from your first picture here, e.g., “Screenshots show the Employee Portal, Manager Dashboard, and Auto-Scheduling Engine in action, highlighting workflows and UI layout.”]
+
+
+
 
 ---
 
