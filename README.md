@@ -97,6 +97,13 @@ All test cases are located here:
 - Jacob Yount (Data Analyst)
 
 ---
+## 👥 Team Contribution Summary
+
+| Team Member | Role | Key Contributions |
+|-------------|------|------------------|
+| **James Mason Fowler-Valdez** | Project Manager / Lead Bubble Developer | Designed and built all major Bubble.io pages (Login/Index, Staff Dashboard, Manager Dashboard, Availability form). Implemented scheduling workflows, data types, shift assignment logic, and UI components. Conducted interviews, created hypotheses, and supported GitHub documentation and diagrams. |
+| **Hector Gomez Jr.** | Lead Developer / GitHub Architect | Organized GitHub repository structure, managed README formatting, created /docs and /diagrams directories, uploaded ERD and architecture diagrams, created and refined the GitHub Project Board, managed issues, user stories, and milestones. Supported technical documentation and Wiki setup. |
+| **Jacob Yount** | Data Analyst / Customer Discovery Lead | Collected and synthesized interview data, extracted key insights, contributed to Guess & Validated BMCs, supported requirements validation, reviewed scheduling logic for accuracy, and contributed to documentation sections involving analysis and user needs. |
 
 # 📄 License  
 This project is for academic use only.
