@@ -105,6 +105,16 @@ All test cases are located here:
 | **Hector Gomez Jr.** | Lead Developer / GitHub Architect | Organized GitHub repository structure, managed README formatting, created /docs and /diagrams directories, uploaded ERD and architecture diagrams, created and refined the GitHub Project Board, managed issues, user stories, and milestones. Supported technical documentation and Wiki setup. |
 | **Jacob Yount** | Data Analyst / Customer Discovery Lead | Collected and synthesized interview data, extracted key insights, contributed to Guess & Validated BMCs, supported requirements validation, reviewed scheduling logic for accuracy, and contributed to documentation sections involving analysis and user needs. |
 
+---
+## Story Point Distribution
+| Team Member | Total Story Points Completed | Contribution % |
+|-------|-----------|------------------|
+| **James Mason Fowler-Valdez** | xx | 33.3%|
+| **Hector Gomez Jr.** | xx | 33.3% |
+| **Jacob Yount** | xx | 33.3% |
+| **Team Total** | xx | 100.0% |
+
+---
 # 📄 License  
 This project is for academic use only.
 
