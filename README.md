@@ -109,10 +109,10 @@ All test cases are located here:
 ## Story Point Distribution
 | Team Member | Total Story Points Completed | Contribution % |
 |-------|-----------|------------------|
-| **James Mason Fowler-Valdez** | xx | 33.3%|
-| **Hector Gomez Jr.** | xx | 33.3% |
-| **Jacob Yount** | xx | 33.3% |
-| **Team Total** | xx | 100.0% |
+| **James Mason Fowler-Valdez** | 88 | 37.9% |
+| **Hector Gomez Jr.** | 70 | 30.2% |
+| **Jacob Yount** | 74 | 31.9% |
+| **Team Total** | 232 | 100.0% |
 
 ---
 # 📄 License  
